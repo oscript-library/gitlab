@@ -3,7 +3,7 @@
 	.Автор("Сергей Голованов")
 	.АдресАвтора("@golovanoffsergio")
 	.Описание("Библиотека для работы с gitlab из oscript.")
-	.АдресРепозитория("https://github.com/oscript-library/gitlab")
+	.АдресРепозитория("https://github.com/Golovanoff/gitlab")
 	.ВерсияСреды("1.9.3")
 	.ВключитьФайл("Readme.md")
 	.ВключитьФайл("src")
